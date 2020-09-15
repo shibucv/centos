@@ -1,6 +1,6 @@
 ## Welcome to CentOS Install and Config Version 7.x/8.x
 
-1. Download from mirror [kernel.org centos mirror page] (http://mirrors.edge.kernel.org/centos/).
+1. Download from mirror [kernel.org_centos](http://mirrors.edge.kernel.org/centos/).
 
 ```
 7/                                                 17-Jun-2020 17:55       -
