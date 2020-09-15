@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to CentOS Install and Config Version 7.x/8.x
 
 You can use the [editor on GitHub](https://github.com/shibucv/centos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
